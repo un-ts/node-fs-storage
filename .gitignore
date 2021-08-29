@@ -1,0 +1,5 @@
+.storage
+lib
+node_modules
+.*cache
+*.log
