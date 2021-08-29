@@ -1,6 +1,6 @@
 {
   "name": "node-fs-storage",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "repository": "git+https://github.com/rx-ts/node-fs-storage.git",
   "author": "JounQin <admin@1stg.me>",
