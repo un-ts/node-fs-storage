@@ -12,9 +12,15 @@
     "import": "./lib/index.js",
     "require": "./lib/index.cjs"
   },
+  "types": "lib",
   "files": [
     "lib",
     "!*.tsbuildinfo"
+  ],
+  "keywords": [
+    "file-system",
+    "fs-storage",
+    "storage"
   ],
   "scripts": {
     "build": "run-p build:*",
