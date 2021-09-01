@@ -52,7 +52,7 @@
     "@types/rimraf": "^3.0.2",
     "postcss": "^8.3.6",
     "ts-jest": "^27.0.5",
-    "type-coverage": "^2.18.1",
+    "type-coverage": "^2.18.2",
     "typescript": "^4.4.2"
   },
   "typeCoverage": {
